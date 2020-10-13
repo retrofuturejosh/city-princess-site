@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/city-princess-site/precache-manifest.2c4140d07e500d7345a4acf2a0b006da.js"
+  "/city-princess-site/precache-manifest.95d9d6c18f129e81fe4da24f2446f783.js"
 );
 
 self.addEventListener('message', (event) => {

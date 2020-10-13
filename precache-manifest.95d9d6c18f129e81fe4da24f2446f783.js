@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5e86ca288802f86653cb445cc0f52bd3",
+    "revision": "cd14b099f01872b7f91ce606b63207f4",
     "url": "/city-princess-site/index.html"
   },
   {
