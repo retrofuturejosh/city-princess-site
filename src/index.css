@@ -136,7 +136,7 @@ code {
 
 #ruff-home-name {
   padding-right: 5%;
-  letter-spacing: 0.5em;
+  /* letter-spacing: 0.5em; */
 }
 
 #hero-link {

@@ -11,7 +11,7 @@ function StreamingLinks(props) {
         <div className="Links">
             <div id='ruff-home'>
                 <Link to='/'>
-                    <span id='ruff-home-name'>RUFF</span>
+                    <span id='ruff-home-name'>City Princess</span>
                 </Link>
             </div>
             <div className="Hero">
