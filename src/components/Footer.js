@@ -43,13 +43,13 @@ function Footer() {
   console.log("Shout out from the console!");
   return (
     <div className="Footer">
-      
+      <div>
+        <Link to="/?songLink=strangers">Listen</Link>
+      </div>
       <div id="footer-text">
         <a href="https://www.instagram.com/_city_princess_/">@_city_princess_</a>
       </div>
-      <div>
-        <Link to="/?songLink=strangers">Listen to debut single Strangers in the Dark</Link>
-      </div>
+
       {/* <AudioPlayer
           iconSize="1.5rem"
           fontSize="1rem" audioFiles={audioFiles} rearrange={rearrangedPlayer} /> */}

@@ -27,7 +27,7 @@ function Hero(props) {
           width: "100%",
           height: "100%"
         }}
-        src={`https://player.vimeo.com/video/467827976?autoplay=1&muted=1`}
+        src={`https://player.vimeo.com/video/467827976?autoplay=1&muted=1&loop=1ß`}
         frameBorder="0"
         allow="autoplay; fullscreen"
       />
