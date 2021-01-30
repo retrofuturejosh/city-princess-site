@@ -22,7 +22,7 @@ function App() {
   );
 }
 
-const validSongLinkParams = ['strangers'];
+const validSongLinkParams = ['strangers', 'behere'];
 
 function getSongFromQueryString(props) {
   const song = new URLSearchParams(props.location.search).get('songLink')

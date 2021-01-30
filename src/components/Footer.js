@@ -44,7 +44,7 @@ function Footer() {
   return (
     <div className="Footer">
       <div>
-        <Link to="/?songLink=strangers">Listen</Link>
+        <Link to="/?songLink=behere">Listen</Link>
       </div>
       <div id="footer-text">
         <a href="https://www.instagram.com/_city_princess_/">@_city_princess_</a>
