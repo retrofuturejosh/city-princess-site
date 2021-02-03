@@ -8,7 +8,7 @@ const linkMap = {
     },
     behere: {
         spotify: "https://open.spotify.com/track/4mpeJsQwdfgDrvSAYEiuZM",
-        apple: "https://music.apple.com/us/artist/city-princess/1546293600",
+        apple: "https://music.apple.com/us/album/be-here/1547213725?i=1547213726",
         tidal: 'https://listen.tidal.com/track/168102548',
         amazon: 'https://music.amazon.com/albums/B08RYQ9SC3?trackAsin=B08RYPW78M&do=play',
         youtube: 'https://www.youtube.com/watch?v=OyQ2VMoRsLM'
