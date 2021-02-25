@@ -43,10 +43,10 @@ function Footer() {
   console.log("Shout out from the console!");
   return (
     <div className="Footer">
-      <div>
+      <div className="footer-text">
         <Link to="/?songLink=behere">Listen</Link>
       </div>
-      <div id="footer-text">
+      <div className="footer-text">
         <a href="https://www.instagram.com/_city_princess_/">@_city_princess_</a>
       </div>
 
