@@ -32,14 +32,11 @@ function App() {
           <img
             className="cover-art"
             src={`${process.env.PUBLIC_URL}/cant-love-you-anymore-art.jpg`}
-            alt="Can't love you anymore cover art"
+            alt="City Princess cover art"
           />
         </div>
 
-        <div className="release-copy">
-          <p className="artist">City Princess</p>
-          <h1 id="release-title">can't love you anymore</h1>
-        </div>
+        <h1 id="release-title" className="release-title">City Princess</h1>
 
         <nav className="link-list" aria-label="Music services">
           {musicLinks.map((link) => (
