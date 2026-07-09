@@ -21,6 +21,10 @@ const musicLinks = [
   {
     label: 'Tidal',
     href: 'https://tidal.com/artist/22573294'
+  },
+  {
+    label: 'Instagram',
+    href: 'https://www.instagram.com/_city_princess_/'
   }
 ];
 
@@ -52,15 +56,6 @@ function App() {
             </a>
           ))}
         </nav>
-
-        <a
-          className="instagram-link"
-          href="https://www.instagram.com/_city_princess_/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          @_city_princess_
-        </a>
       </section>
     </main>
   );
