@@ -4,23 +4,19 @@ import './App.css';
 const musicLinks = [
   {
     label: 'Spotify',
-    href: 'https://open.spotify.com/artist/3ylFTwTwvZK33nHxIq56jS'
+    href: 'https://open.spotify.com/track/5iN6pm11cjU1Um2dXVpz33?si=32976b6083f64a13'
   },
   {
     label: 'Apple Music',
-    href: 'https://music.apple.com/us/artist/city-princess/1546293600'
+    href: 'https://music.apple.com/us/song/cant-love-you-anymore/6788693001'
   },
   {
     label: 'YouTube',
-    href: 'https://www.youtube.com/channel/UC2oSdSzYYnuAhBF87vuBO1w'
+    href: 'https://music.youtube.com/playlist?list=OLAK5uy_m_wLIkqMcJbiXUlWvWIrWnhdWkFmDPYfY&si=_62qyvdRyGn96fCg'
   },
   {
     label: 'Amazon Music',
-    href: 'https://music.amazon.com/artists/B08Q757LPN/city-princess'
-  },
-  {
-    label: 'Tidal',
-    href: 'https://tidal.com/artist/22573294'
+    href: 'https://music.amazon.com/albums/B0H83C5J57?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_VE3Bxt1hw92GWsowTr8yt39mU&trackAsin=B0H83L4DX4'
   },
   {
     label: 'Instagram',
